@@ -48,6 +48,16 @@ Check out these resources to learn more or get involved:
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
+### Personal Access Tokens Configuration / Personal Access Tokensの設定
+
+For secure authentication when working with GitHub repositories, you'll want to set up personal access tokens:
+
+- [Creating a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) - Learn how to create tokens for command-line access
+- [Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) - Best practices for token management
+- [Using a personal access token on the command line](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#using-a-token-on-the-command-line) - How to use tokens with Git operations
+
+コマンドラインやAPIを使用してGitHubリポジトリに安全にアクセスするために、Personal Access Tokenを設定することをお勧めします。上記のリンクから設定方法と管理のベストプラクティスを学習できます。
+
 <footer>
 
 <!--
